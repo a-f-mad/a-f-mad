@@ -9,7 +9,3 @@ Sou desenvolvedor em transição de carreira, com experiência em segurança da 
 | Evil Castle Game | Python + Pygame | [🔗 Repositório](https://github.com/a-f-mad/EvilCastle) |
 
 
-
-### 🌐 Contato
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&link=https://www.linkedin.com/in/adelino-madureira-developer/)](https://www.linkedin.com/in/adelino-madureira-developer/)
-
